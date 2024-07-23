@@ -9,4 +9,4 @@ The data that EDA based on, retrieved from Kaggle and specially from the followi
 
 The report is an R Markdown file (.RMD) which created in Rstudio using the programming language R (version: 4.3.2) and published in shinyapps.io.
 
-You can read this report by clicking on the next link: https://glprojects.shinyapps.io/Olympics_Insights_from_1896_to_2024/
+You can read this report by clicking on the next link: https://glprojects.shinyapps.io/Olympics/
